@@ -8,7 +8,7 @@
 ## vendor publish
     - php artisan vendor:publish
     - select 0 ([] Publish files from all providers and tags listed below)
-## rajaonkit api setting
+## rajaonkit api setting (.env)
     - RAJA_ONGKIR_URL=https://api.rajaongkir.com/starter/
     - RAJA_ONGKIR_KEY="set api key disini"
 ## url
